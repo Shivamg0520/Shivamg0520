@@ -76,7 +76,7 @@ I thrive in challenging environments and constantly seek to expand my knowledge 
 <p align="left">
 <a href="https://linkedin.com/in/shivamg1869518" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/Shivamg0520" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-<a href="https://shivamg0520.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=web" height="40" /></a>
+<a href="https://shivamg0520.github.io/" target="_blank"><img src="https://skillicons.dev/icons?i=htmx" height="40" /></a>
 <a href="mailto:sheru.gupta695@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <a href="https://www.instagram.com/mr.unknown0520/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>

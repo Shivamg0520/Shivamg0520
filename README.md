@@ -1,78 +1,81 @@
-<div align="center">
-  <img src="https://shivamg0520.github.io/images/photo.png" alt="Profile Picture" width="150" style="border-radius: 50%;">
-  <h1>Hi, I'm Shivam Gupta 👋</h1>
-</div>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<h3 align="center">B.Tech CSE | Web & Python Developer | Cybersecurity Enthusiast</h3>
 
+<!-- Profile Views -->
 <p align="center">
-  A passionate and dedicated B. Tech (CSE) student with a strong interest in Web Development and Python Development. I am currently enhancing my skills to contribute to impactful projects and achieve organizational goals.
+  <img src="https://komarev.com/ghpvc/?username=Shivamg0520&label=Profile%20views&color=0e75b6&style=flat" alt="shivamg0520" />
 </p>
 
 ---
 
-### 💼 Career Objective
-
-[span_0](start_span)To be a part of an organization where I can effectively contribute my knowledge and enhance my skills to meet company goals.[span_0](end_span)
-
----
-
-### 🛠️ Skills & Expertise
-
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | Python, C (basic), JavaScript, Java (basic), Kotlin |
-| **Frontend** | HTML, CSS |
-| **Databases** | MySQL (basic), PostgreSQL |
-| **Tools & Platforms** | Git, GitHub, VS Code, Windows, Linux |
-| **Currently Learning** | Advance Python and Machine Learning |
+## 🚀 About Me  
+- 🎓 **B.Tech (CSE)** at Dr. APJ Abdul Kalam Technical University (2022-2026)  
+- 💻 Passionate about **Web Development, Python Development & Cybersecurity**  
+- 🌱 Currently learning **Advanced Python & Machine Learning**  
+- 🏆 Hackathon Winner for a **Music Player Web App**  
+- ⚡ Fun fact: I love **Gaming, Tech Reviews & Photography**  
 
 ---
 
-### 🌟 Featured Projects
+## 🛠 Skills & Tools  
 
-#### 1. Aegis Firewall
-[span_1](start_span)A simple desktop application that allows you to manage network access for active applications using Windows Firewall rules.[span_1](end_span)
-* **[span_2](start_span)Technologies:** Tkinter, ttkbootstrap, Python[span_2](end_span)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 
-#### 2. File Organiser
-[span_3](start_span)A Python script that scans a directory and moves files into subfolders based on their file type (e.g., `.jpg` and `.png` into an "Images" folder).[span_3](end_span)
-* **[span_4](start_span)Purpose:** Helps declutter folders like "Downloads" or "Desktop" with a single command.[span_4](end_span)
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-#### 3. Music Player Website
-[span_5](start_span)A fully functional music player website with features like play, pause, next, previous, and playlist management.[span_5](end_span)
-* **[span_6](start_span)Technologies:** HTML, CSS, JavaScript[span_6](end_span)
-* **[span_7](start_span)Achievement:** Hackathon Winner for a college mini-project.[span_7](end_span)
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-#### 4. Real-Time Chat Application
-[span_8](start_span)A live chat application developed using Web-Sockets for seamless, real-time communication among multiple users.[span_8](end_span)
-* **[span_9](start_span)Technology:** Web-Sockets[span_9](end_span)
-
----
-
-### 🏆 Achievements & Experiences
-
-* [span_10](start_span)Completed a **Python Development Internship** at Congnifyz Technologies and a **Web Development Internship** at Elevate Labs, contributing to real-world projects.[span_10](end_span)
-* [span_11](start_span)Successfully developed and deployed **3+ personal/academic web projects**.[span_11](end_span)
-* [span_12](start_span)Participated in a college-level **IoT Workshop**, where I designed and built an Obstacle-Avoiding Robo-Car.[span_12](end_span)
-* [span_13](start_span)Worked as a **Volunteer** in college events, assisting in organization and coordination.[span_13](end_span)
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ---
 
-### 🚀 Let's Connect
+## 📌 Projects  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Aegis Firewall** | Desktop app to manage network access via Windows Firewall rules | Python, Tkinter, ttkbootstrap |
+| **File Organiser** | Script to organize files into folders by type | Python |
+| **Music Player Website** 🎵 | Full-featured music player web app (Hackathon Winner) | HTML, CSS, JavaScript |
+| **Real-Time Chat App** 💬 | Live chat with WebSocket for multi-user messaging | JavaScript, WebSockets |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivamg1869518/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Shivamg0520/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:shivamg1869518@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+---
+
+## 📜 Achievements  
+- 🏅 Python Developer Internship @ Congnifyz Technologies  
+- 💼 Web Development Internship @ Elevate Labs  
+- 📚 Built & deployed 3+ real-world projects  
+- 🤖 IoT Workshop – Designed an **Obstacle-Avoiding Robo-Car**  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://linkedin.com/in/shivamg1869518" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/Shivamg0520" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://shivamg0520.github.io/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=web" height="40" /></a>
 </p>
 
 ---
 
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivamg0520&style=for-the-badge" alt="Profile views">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivamg0520&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamg0520&theme=tokyonight" alt="GitHub streak" />
 </p>
+
+---
+
+⭐ **_"Turning coffee ☕ into code since 2022"_**

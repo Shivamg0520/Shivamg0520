@@ -17,7 +17,7 @@ I thrive in challenging environments and constantly seek to expand my knowledge 
 - 💻 **Specializing in:** Python, Web Technologies, Cybersecurity  
 - 📚 Currently learning **Advanced Python & Machine Learning**  
 - 🏆 Hackathon Winner for **Music Player Web App**  
-- 🌍 Portfolio: [shivamg0520.github.io](https://shivamg0520.github.io/)  
+- 🌍 Portfolio: [https://shivos.vercel.app](https://shivos.vercel.app/)  
 
 ---
 

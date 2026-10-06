@@ -1,0 +1,154 @@
+================================================================================
+                         SHIVAM GUPTA - COMPLETE PROFILE DATA
+================================================================================
+
+[1] BASIC PERSONAL DETAILS
+--------------------------------------------------------------------------------
+Full Name         : Shivam Gupta
+Location          : Varanasi, Uttar Pradesh, India
+Phone Number      : +91-88689 13747
+Email Address     : shivamg1869518@zohomail.in
+GitHub Username   : Shivamg0520
+Current Role      : Graduate Apprentice Trainee (GAT) @ Tata Motors Limited
+Bio / Taglines    : 
+  - "Innovating solutions | Crafting experiences | Building the future"
+  - "Curious by default. Building with intent."
+  - "Turning coffee into code since 2022"
+
+
+[2] ALL LINKS & SOCIAL PROFILES
+--------------------------------------------------------------------------------
+GitHub Profile    : https://github.com/Shivamg0520
+LinkedIn Profile  : https://linkedin.com/in/shivamg1869518
+Portfolio (Main)  : https://shivos.vercel.app/
+Portfolio (Alt)   : https://shivamg0520.github.io/
+Instagram         : https://www.instagram.com/mr.unknown0520/
+Email (Direct)    : mailto:shivamg1869518@zohomail.in
+
+
+[3] EDUCATION DETAILS
+--------------------------------------------------------------------------------
+Degree            : Bachelor of Technology (B.Tech)
+Discipline        : Computer Science and Engineering (CSE)
+Institution       : Shambhunath Institute of Engineering and Technology (SIET), Prayagraj
+University        : Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow
+Duration          : 2022 – 2026
+Academic Score    : CGPA: 7.5 / 10
+
+
+[4] PROFESSIONAL WORK EXPERIENCE
+--------------------------------------------------------------------------------
+1. TATA MOTORS LIMITED
+   Role 1: Graduate Apprentice Trainee (GAT)
+   Duration: September 2026 – Present
+   
+   Role 2: Intern (CMS Department - Central Maintenance & Services)
+   Duration: March 2026 – September 2026 (6 Months)
+   Key Contributions:
+   - Industrial automation and live manufacturing data monitoring solutions.
+   - Designed and enhanced UI components and dashboards for manufacturing data 
+     visualization using HTML, CSS, JavaScript, and Node-RED.
+   - Machine Learning predictive models focused on weld machine health 
+     prediction, weld quality assessment, and weld strength analysis.
+
+2. COGNIFYZ TECHNOLOGIES
+   Role: Python Developer Intern
+   Duration: 2025 (1 Month)
+   Key Contributions:
+   - Built Python desktop automation tools, file management pipelines, and 
+     algorithmic problem-solving solutions.
+
+3. ELEVATE LABS
+   Role: Web Developer Intern
+   Duration: 2024
+   Key Contributions:
+   - Developed responsive frontend web applications and interactive client 
+     modules using web technologies.
+
+
+[5] TECHNICAL SKILLS INVENTORY
+--------------------------------------------------------------------------------
+Programming Languages    : Python (Advanced), JavaScript (ES6+), TypeScript, 
+                           Kotlin, Java, C, SQL
+
+Frontend & Web Tech      : Next.js 14, React.js, HTML5, CSS3, Tailwind CSS, 
+                           ttkbootstrap, Tkinter
+
+Backend & Frameworks     : Node.js, Express, Django, Flask, Prisma ORM, Auth.js
+
+Databases & Storage      : PostgreSQL, MySQL, Cloudinary Media Storage
+
+Machine Learning & IoT   : Scikit-Learn, Predictive Modeling, Machine Health 
+                           Assessment, Data Visualization, Node-RED, Arduino/IoT
+
+Automation & DevOps      : Git, GitHub, Linux Shell, VS Code, Selenium, 
+                           WebSockets, Sockets, Windows Firewall API Engine, Docker
+
+Cloud Platforms          : Oracle Cloud Infrastructure (OCI Certified), 
+                           Vercel, Render
+
+
+[6] FEATURED PROJECTS & DEMO LINKS
+--------------------------------------------------------------------------------
+1. The Hindustan Press (Full-Stack News & Media Portal - 2026)
+   Tech Stack : Next.js, TypeScript, PostgreSQL, Prisma, Auth.js, Tiptap, Cloudinary
+   Features   : Bilingual news portal with RBAC (Super Admin/Staff), Tiptap editor, 
+                automated Cloudinary media uploads, dynamic Google AdSense 
+                placement engine, guest comment moderation, and advanced SEO 
+                (JSON-LD schema & dynamic sitemaps).
+   Link       : https://github.com/Shivamg0520
+
+2. Aegis Firewall (Desktop Security Tool)
+   Tech Stack : Python, ttkbootstrap, psutil, Tkinter, Windows Firewall API
+   Features   : Desktop app to inspect active running applications and control 
+                their network access through native Windows Firewall rules.
+   Demo Link  : https://drive.google.com/file/d/1yYjJE3zNMk3vFGoYGCxNdpwndMi0FsFF/view?usp=sharing
+
+3. Industrial Weld Machine Health & Quality Predictor
+   Tech Stack : Python, Scikit-Learn, Data Pipelines, Industrial Automation
+   Features   : Predictive maintenance system developed at Tata Motors CMS Dept 
+                to predict weld machine health, assess weld quality, and evaluate 
+                weld strength.
+   Status     : Developed at Tata Motors Limited
+
+4. Real-Time Chat App (Multi-User Instant Messenger)
+   Tech Stack : JavaScript, WebSockets, HTML5, CSS3, Render
+   Features   : Full-duplex real-time instant chat platform using WebSockets for 
+                zero-latency communication.
+   Live Link  : https://chat-with-random.onrender.com/
+
+5. Smart File Organizer (Automation Tool)
+   Tech Stack : Python, OS, Shutil
+   Features   : Automated utility that classifies, organizes, and moves files into 
+                designated folders according to file types.
+   Video Demo : https://youtu.be/Fr_LZj3xbG8
+
+6. Facebook Auto Blog Poster
+   Tech Stack : Python, Selenium
+   Features   : Automation bot for scheduled posting on Facebook blogs.
+
+7. Server-Client GUI Socket Chat System
+   Tech Stack : Python, Socket Programming, Tkinter
+   Video Demo : https://youtu.be/-i4DoyuhzNw
+
+8. Web Scraping Image Downloader Tool
+   Tech Stack : Python, Web Scraping, Requests
+   Video Demo : https://youtu.be/HAfL0eS0M-8
+
+9. Obstacle-Avoiding Autonomous Robo-Car
+   Tech Stack : Embedded C, Microcontroller, Ultrasonic Sensors, Motors
+   Features   : Autonomous robot vehicle designed during IoT workshop with 
+                real-time obstacle avoidance.
+
+
+[7] CERTIFICATIONS & HONORS
+--------------------------------------------------------------------------------
+1. Oracle Cloud Infrastructure (OCI) Certified Foundations Associate (Oracle - 2025)
+2. Python Programming Master Certification (TuteDude - 2025)
+3. Hackathon Winner - 1st Prize for Music Player Web Application
+4. IoT & Robotics Credential - Obstacle-Avoiding Autonomous Vehicle
+5. College Technical Symposium & Event Volunteer / Coordinator
+
+================================================================================
+Generated for: Shivam Gupta (@Shivamg0520)
+================================================================================
